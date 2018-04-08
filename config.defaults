@@ -11,7 +11,7 @@ cmakebuildtype=RelWithDebInfo
 builddocs=OFF
 CC=gcc
 CXX=g++
-makewidth=4
+makewidth=7
 
 [descriptions]
 gituser=Username for GIT access
